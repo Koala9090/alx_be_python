@@ -20,4 +20,4 @@ try:
     else:
         print("Invalid unit, Enter C or F")
 except ValueError:
-    print("Invalid temperature. Please enter a numeric value")
+    print("Invalid temperature. Please enter a numeric value.")
